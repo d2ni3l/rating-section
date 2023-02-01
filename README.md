@@ -4,4 +4,6 @@ This was a Front-End Mentor challenge This is a solution to the interactive-rati
 
 Preview Link: https://ratingapplication.netlify.app/
 
+![alt text](https://iili.io/HJr3SJp.png)
+
 check out the challenge: https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
